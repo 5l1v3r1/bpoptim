@@ -5,7 +5,7 @@ Bond Portfolio Optimization
 Исходными данными являются дюрации, входящих в портфель бумаг, и целевая доходность портфеля.
 
 Использование программы:
-bpoptim targetrate csvfile
+<br>bpoptim targetrate csvfile
 где:
 	targetrate 	- целевая ставка доходности портфеля в %
 	csvfile		- CSV-файл с данными.
